@@ -1,2 +1,2 @@
-# DioramaVaasa
-Voxel art from the city of Vaasa (Finland).
+# VaasaScape
+Data from the city of Vaasa (Finland).
